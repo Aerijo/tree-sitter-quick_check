@@ -1,0 +1,15 @@
+{
+  "name": "tree-sitter-quick-check",
+  "version": "0.0.0",
+  "description": "Dummy Tree sitter grammar",
+  "main": "index.js",
+  "repository": null,
+  "author": "Benjamin Gray",
+  "license": "MIT",
+  "devDependencies": {
+    "tree-sitter-cli": "^0.13.5"
+  },
+  "scripts": {
+    "build": "tree-sitter generate && node-gyp build"
+  }
+}
