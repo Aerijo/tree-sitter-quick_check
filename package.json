@@ -1,5 +1,5 @@
 {
-  "name": "tree-sitter-quick-check",
+  "name": "tree-sitter-quick_check",
   "version": "0.0.0",
   "description": "Dummy Tree sitter grammar",
   "main": "index.js",

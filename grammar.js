@@ -1,5 +1,5 @@
 module.exports = grammar({
-  name: "quick-check",
+  name: "quick_check",
 
   extras: $ => [/[\s\n\t]/, $.comment],
 
